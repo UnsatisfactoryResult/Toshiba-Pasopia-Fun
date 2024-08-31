@@ -1,5 +1,5 @@
 # Toshiba-Pasopia-Fun
-General info about Toshiba's line of 8 bit computers released in Japan in the early 1980s. Western markets also received early versions as the T100 series. Not to be confused with their line of MSX computers also using the Pasopia name.
+General info about Toshiba's line of 8 bit computers released in Japan in the early 1980s. Western markets also received early versions as the T100 series. Not to be confused with their line of MSX computers also using the Pasopia name, or the Pasopia 16 which was an IBM PC compatible.
 
 System expansion is handled by expansion cartridges called PACs. All models feature two PAC slots. The PAC1 slot uses a 44 pin female header on all but the 700 models, which used a 50 pin male IDC header. The PAC2 slot uses a 20 pin female header on all models.
 
